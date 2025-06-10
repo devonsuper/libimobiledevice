@@ -42,3 +42,7 @@ tools/afcclient
 cython/.libs/*
 cython/*.c
 doxygen.cfg
+
+limd_build
+!limd_build/build.sh
+!limd_build/output/.gitkeep
